@@ -31,6 +31,7 @@
 ## Streaming Software
 
 * [OBS Studio](https://obsproject.com/)
+* [Streamlabs](https://streamlabs.com/desktop-app)
 * [TikTok LIVE Studio](https://www.tiktok.com/studio/download?lang=en) 
 
 ## Your Hosts
