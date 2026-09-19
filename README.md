@@ -5,6 +5,11 @@
 * [OBS Studio](https://obsproject.com/)
 * optional, but recommended: [Spout2 Plugin for OBS](https://github.com/Off-World-Live/obs-spout2-plugin)
 
+## VR Software
+
+* [VRChat](https://hello.vrchat.com/)
+* [Resonite](https://resonite.com/)
+
 ## Mobile Editing Apps
 
 * [Edits](https://creators.instagram.com/edits/) by Instagram/Facebook/Meta
@@ -17,3 +22,8 @@
 * [CapCut Desktop](https://www.capcut.com/) - Free to Start
 * [Microsoft ClipChamp](https://clipchamp.com/en/) - Free to Start (not super great)
 * [Adobe Premiere](https://www.adobe.com/products/premiere.html) - $$$
+
+## Your Hosts
+
+* [Nyavarr](https://nyavarr.com/)
+* [Autumn Blessings](https://autumnblessings.carrd.co/)
