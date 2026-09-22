@@ -47,3 +47,4 @@
 * [TRIPP: VR Mental Wellness App](https://www.tripp.com/)
 * [Liminal: VR Mental Wellness App](https://liminalvr.com/)
 * [Liminal VR Immersive Theater Exprience](https://theliminalvr.com/)
+* [Creator Jam Metaverse Maker Competition](https://www.creatorjam.org/mmc)
