@@ -38,3 +38,11 @@
 
 * [Nyavarr](https://nyavarr.com/)
 * [Autumn Blessings](https://autumnblessings.carrd.co/)
+
+## Other Mentions
+
+* [I'm Definitely not a Popufur Podcast](https://www.youtube.com/@ImDefinitelyNotAPopufur)
+* [Lovers Quarrel Indie Film](https://www.youtube.com/watch?v=NKJRC5FgR7g)
+* [TRIPP: VR Mental Wellness App](https://www.tripp.com/)
+* [Liminal: VR Mental Wellness App](https://liminalvr.com/)
+* [Liminal VR Immersive Theater Exprience](https://theliminalvr.com/)
