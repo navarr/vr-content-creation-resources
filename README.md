@@ -41,6 +41,7 @@
 
 ## Other Mentions
 
+* **[Furrest City VR Adventures](https://t.me/furrestcity/12141)**
 * [I'm Definitely not a Popufur Podcast](https://www.youtube.com/@ImDefinitelyNotAPopufur)
 * [Lovers Quarrel Indie Film](https://www.youtube.com/watch?v=NKJRC5FgR7g)
 * [TRIPP: VR Mental Wellness App](https://www.tripp.com/)
